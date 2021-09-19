@@ -1,0 +1,5 @@
+# FMOD Studio
+*.user
+*.unsaved
+*.cache
+*.restore
