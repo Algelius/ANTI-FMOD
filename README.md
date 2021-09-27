@@ -7,7 +7,7 @@ Checklist (designation in brackets, description following):
 # Music
 [Music_M1] Menu Title Screen
 
-[Music_M2] Menu Pause Screen
+[Music_M2] Menu Team Screen
 
 [Music_G1] Gameplay Stage 1
 
