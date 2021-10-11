@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4e843c58-7ecb-49f1-96a6-3cb6200327a1}">
+		<property name="assetPath">
+			<value>KICK + TOMS.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>49.230770975056693</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4fb4315a-6b15-4a12-9167-7a4be99740bc}</destination>
+		</relationship>
+	</object>
+</objects>

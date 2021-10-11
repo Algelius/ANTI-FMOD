@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{d7b4fba6-aa81-49d9-a857-71f77f6f7d11}">
+		<property name="name">
+			<value>EPICNESS</value>
+		</property>
+		<relationship name="folder">
+			<destination>{17953ede-9347-4626-980d-5aa8097f237a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f2966aa5-c5e5-4b8e-bdf8-ebd1fc3d5d11}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f2966aa5-c5e5-4b8e-bdf8-ebd1fc3d5d11}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>100</value>
+		</property>
+	</object>
+</objects>
