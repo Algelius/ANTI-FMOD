@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{9b2cfcf4-048c-4899-8e73-9991944f7449}">
+		<property name="assetPath">
+			<value>Gameplay_Segment11_211123.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>23.085354166666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4fb4315a-6b15-4a12-9167-7a4be99740bc}</destination>
+		</relationship>
+	</object>
+</objects>
