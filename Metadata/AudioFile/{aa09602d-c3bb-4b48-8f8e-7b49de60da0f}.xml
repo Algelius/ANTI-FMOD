@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{aa09602d-c3bb-4b48-8f8e-7b49de60da0f}">
+		<property name="assetPath">
+			<value>ScorpBot_Attack04_211124.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.97881249999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4fb4315a-6b15-4a12-9167-7a4be99740bc}</destination>
+		</relationship>
+	</object>
+</objects>
