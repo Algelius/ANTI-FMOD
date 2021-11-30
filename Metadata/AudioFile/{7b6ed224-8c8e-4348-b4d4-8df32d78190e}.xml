@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{7b6ed224-8c8e-4348-b4d4-8df32d78190e}">
+		<property name="assetPath">
+			<value>Anti_SFXRobotBreaks01.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.91043750000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4fb4315a-6b15-4a12-9167-7a4be99740bc}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{70cd49d2-c021-41bb-b0db-a307e065d784}">
+		<property name="name">
+			<value>ExplosionSize</value>
+		</property>
+		<relationship name="folder">
+			<destination>{17953ede-9347-4626-980d-5aa8097f237a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1312bc85-3c7c-4305-bba4-d2dac597983d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1312bc85-3c7c-4305-bba4-d2dac597983d}">
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
