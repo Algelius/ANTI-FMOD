@@ -5,7 +5,7 @@
 			<value>EMP Pulse 2</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{056509e4-cc8e-425b-82b0-42df50f22afd}</destination>
@@ -116,6 +116,7 @@
 	<object class="MixerBusEffectChain" id="{b7592b5d-a8bd-4090-acbe-7ac77e005943}">
 		<relationship name="effects">
 			<destination>{face8663-2779-4db9-a29a-f86a36045e51}</destination>
+			<destination>{415614fb-351c-47e4-b24e-9de2a926e82a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f67e41ec-29f9-4589-abcd-8fc2d6778706}" />
@@ -135,6 +136,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{4d48de34-8265-4ac9-ae90-5cbaeb1c6f79}" />
 	<object class="MixerBusFader" id="{face8663-2779-4db9-a29a-f86a36045e51}" />
+	<object class="SpatialiserEffect" id="{415614fb-351c-47e4-b24e-9de2a926e82a}" />
 	<object class="AutomationPoint" id="{baf1ee5f-0815-447d-b7b4-67fdb81fda7d}">
 		<property name="position">
 			<value>2</value>

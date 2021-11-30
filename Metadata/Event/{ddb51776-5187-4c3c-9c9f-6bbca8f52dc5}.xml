@@ -5,7 +5,7 @@
 			<value>Footsteps</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{056509e4-cc8e-425b-82b0-42df50f22afd}</destination>
@@ -130,6 +130,7 @@
 	<object class="MixerBusEffectChain" id="{6cce989c-8806-4237-9546-e58fe649ad3d}">
 		<relationship name="effects">
 			<destination>{b033e262-c065-47ef-ac97-7d357b74ed0e}</destination>
+			<destination>{0554c722-0481-4343-b440-1298c5eb162c}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6a221b30-36bc-4466-accc-81e20a0396cf}" />
@@ -141,5 +142,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{d49d87ec-311d-4dcb-a114-223d8ce07dd4}" />
 	<object class="MixerBusFader" id="{b033e262-c065-47ef-ac97-7d357b74ed0e}" />
+	<object class="SpatialiserEffect" id="{0554c722-0481-4343-b440-1298c5eb162c}" />
 	<object class="MixerBusFader" id="{2e12df93-f990-410a-a566-e27dea8d829f}" />
 </objects>
